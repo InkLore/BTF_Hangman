@@ -1,0 +1,124 @@
+Air
+Stone
+Grass
+Dirt
+Cobblestone
+Wooden Planks
+Saplings
+Bedrock
+Water
+Stationary water
+Lava
+Stationary lava
+Sand
+Gravel
+Gold ore
+Iron ore
+Coal ore
+Wood
+Leaves
+Sponge
+Glass
+Lapis Lazuli ore
+Lapis Lazuli block
+Dispenser
+Sandstone
+Note block
+Bed
+Powered rail
+Detector rail
+Sticky piston
+Cobweb
+Tall grass
+Dead bush
+Piston
+Piston extension
+Wool
+Block moved by Piston
+Dandelion
+Rose
+Brown Mushroom
+Red Mushroom
+Block of gold
+Block of iron
+Double slabs
+Slabs
+Bricks
+TNT
+Bookshelf
+Moss Stone
+Obsidian
+Torch
+Fire
+Monster spawner
+Wooden Stairs
+Chest
+Redstone wire
+Diamond ore
+Block of iron
+Crafting table
+Wheat seeds
+Farmland
+Furnace
+Burning Furnace
+Sign post
+Wooden door
+Ladders
+Rails
+Cobble­stone stairs
+Wall sign
+Lever
+Stone Pressure Plate
+Iron Door
+Wooden Pressure Plate
+Redstone ore
+Glowing redstone ore
+Redstone Torch
+Stone button
+Snow
+Ice
+Snow block
+Cactus
+Clay block
+Sugar cane
+Jukebox
+Fence
+Pumpkin
+Netherrack
+Soul Sand
+Glowstone Block
+Portal
+Jack-O­-La­ntern
+Cake Block
+Redstone Repeater
+Locked Chest
+Trapdoor
+Hidden Silverfish
+Stone bricks
+Huge Brown Mushroom
+Huge Red Mushroom
+Iron Bars
+Glass Pane
+Melon
+Pumpkin Stem
+Melon Stem
+Vines
+Fence gate
+Brick Stairs
+Stone Brick Stairs
+Mycelium
+Lily Pad
+Nether Brick
+Nether brick fence
+Nether brick stairs
+Nether Wart
+Enchan­tment table
+Brewing Stand
+Cauldron
+End Portal
+End Portal Frame
+End Stone
+Dragon Egg
+Redstone Lamp
+Wooden Double Slab
+Wooden Slab
