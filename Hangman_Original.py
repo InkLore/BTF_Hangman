@@ -1,4 +1,4 @@
-# Batchelorian Logic Presents: Hangman
+# Batchelorean Logic Presents: Hangman
 
 from random import choice
 
